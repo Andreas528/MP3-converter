@@ -1,0 +1,13 @@
+# ve
+.venv/
+.venv-*/
+
+# python cache
+__pycache__/
+*.py[cod]
+
+# generated MP3 files
+generated_mp3s/
+
+# yt-dlp download history
+downloaded.txt
